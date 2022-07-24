@@ -1,10 +1,17 @@
-Criando meu primeiro projeto no git, então nem tudo vai estar tão configurado e documentado da melhor forma possivel. Aceito sugestões, dicas e melhorias, quanto no projeto quanto na documentação. Espero que curtam, abs.
+Criando meu primeiro projeto no git, então nem tudo vai estar tão configurado e documentado da melhor forma possivel. 
+
+
+Aceito sugestões, dicas e melhorias, quanto no projeto quanto na documentação. Espero que curtam, abs.
 
 
 # Random Meme Maker
 
 Projeto criado através dos conhecimentos adquiridos na imersão Java da Alura.
+
+
 Obejtivo: Criar stickers de memes com textos em que o usuário escolhe aleatoriamente, tornando a mensagem algo positivo ou negativo e gerando humor através desse match de imagem e texto. 
+
+
 Neste projeto foi criado uma Api e um app.
 
 # Imersão 
